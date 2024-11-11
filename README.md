@@ -10,7 +10,6 @@ Este repositorio contiene el código HTML y CSS para una página web de galería
 - [Características](#características)
 - [Estructura del CSS](#estructura-del-css)
 - [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ---
 
@@ -42,6 +41,3 @@ Pie de Página: Estilos para la parte inferior de la página.
 Contribuciones
 ¡Las contribuciones son bienvenidas! Si quieres mejorar el proyecto, realiza un fork y envía tus pull requests. Asegúrate de que tu código sigue la estructura del proyecto y de agregar comentarios cuando sea necesario.
 
-## Licencias
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
