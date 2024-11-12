@@ -1,16 +1,15 @@
-# Página de Galería de Películas
+## Página de Galería de Películas
 
 Este repositorio contiene el código HTML, CSS y JavaScript para una página web de galería de películas con un diseño atractivo y responsivo. El diseño permite mostrar portadas de películas, efectos interactivos al pasar el cursor, y una estructura dinámica para una experiencia visual interesante.
 
 ## Tabla de Contenidos
 
-- [Descripción General](#descripción-general)
-- [Demo](#demo)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [JavaScript](#javascript)
-- [Características](#características)
-- [Estructura del CSS](#estructura-del-css)
+- Descripción General
+- Demo
+- Uso
+- JavaScript
+- Características
+- Estructura del CSS
 
 ---
 
